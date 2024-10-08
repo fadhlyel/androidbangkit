@@ -1,0 +1,7 @@
+<resources >
+
+    <style name="Base.Theme.Androidbangkit" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:background">@color/birdong</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>
